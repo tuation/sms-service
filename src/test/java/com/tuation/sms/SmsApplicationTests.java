@@ -1,10 +1,10 @@
-package com.tuation.sms.service;
+package com.tuation.sms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmsServiceApplicationTests {
+class SmsApplicationTests {
 
 	@Test
 	void contextLoads() {
